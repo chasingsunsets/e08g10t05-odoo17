@@ -9,8 +9,8 @@ pool:
 
 variables:
   repoUrl: 'https://github.com/chasingsunsets/e08g10t05-odoo17'
-  updateScript: '/home/azureuser/deploy-temp/update_code.sh'
-  stagePath: '/home/azureuser/'
+  updateScript: '/home/is214/deploy-temp/update_code.sh'
+  stagePath: '/home/is214/'
 
 stages:
 
